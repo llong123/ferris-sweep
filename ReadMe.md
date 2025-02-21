@@ -1,6 +1,7 @@
 # Rob Hague's ZMK Configs
 
-This repository contains [Rob Hague](https://rob.rho.org.uk/about)'s [ZMK](https://zmk.dev) configurations for his various [nice!nano](https://nicekeyboards.com/nice-nano/) keyboard builds.
+This repository contains
+[ZMK](https://zmk.dev) configurations for his various [nice!nano](https://nicekeyboards.com/nice-nano/) keyboard builds.
 
 ## Manta
 
